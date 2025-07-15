@@ -1,12 +1,24 @@
-# React + Vite
+# 👟 Shoe Sale Page – React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple and elegant **Shoe Sale landing page** built using **React and Vite**. The design is clean, responsive, and ideal for showcasing products like shoes or sneakers in a modern layout.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🖼️ Preview
 
-## Expanding the ESLint configuration
+![Shoe Sale Page Screenshot](https://github.com/sana-dev-code/shoe_sale_page/raw/1f07757d328b9fe2c231cbd854c4e2c2c2452b09/Screenshot%202025-07-15%20192241.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Features
+
+- ✨ Built with **React + Vite**
+- 🎨 Modern and clean design
+- 📱 Fully responsive for mobile, tablet, and desktop
+- ⚡ Fast load times with Vite's Hot Module Reloading (HMR)
+- ✅ Uses `@vitejs/plugin-react` for seamless React development
+
+---
+
+## 📁 Folder Structure
+
