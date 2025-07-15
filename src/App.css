@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+body {
+    font-family: 'Poppins',sans-serif;
+    
+}
+nav{
+    color: 2E2E2E;
+    display: flex;
+    justify-content:space-between;
+    max-width: 1280px;
+    margin: 0 auto;
+    height: 72px;
+    align-items: center;
+
+}
+ul{
+    color: rgba(46, 46, 46, 1);
+  list-style: none;
+  font-size: 16px; 
+  display: flex; 
+  gap: 24px;
+  font-weight: 600;
+
+}
+button{
+    all: unset;
+    background-color: rgba(208, 28, 40, 1);
+    color: white;
+    border: none;
+    size: 78px;
+    font-weight: 500;
+    padding: 6px 16px;
+    height: 31px;
+
+
+}
+.hero{
+    
+    display: flex;
+    max-width: 1280px;
+    margin: 0 auto;
+      display: flex;
+  align-items: center;
+  height: calc(100vh - 72px);
+}
+.left{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+.left h1{
+    margin-bottom: 10px;
+ 
+    font-weight: 800;
+  line-height: 102px;
+  font-size: 108px;
+
+    
+}
+.left p{
+    margin-top: 0; /* remove gap from top of paragraph */
+  margin-bottom: 20px;
+    max-width: 635px;
+    font-size:16px;
+    color: rgba(90, 89, 89, 1);
+}
+.hero-btn{
+    font-size: x-large;
+    font-weight: bold;
+    display: flex;
+    gap: 24px;
+}
+.trans{
+    background-color: transparent;
+    border: solid rgba(90, 89, 89, 1);
+    color: rgba(90, 89, 89, 1);
+}
+.hero-image{
+    margin-bottom: 20px;
+    display: flex;
+    gap: 24px;
+}
