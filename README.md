@@ -20,5 +20,4 @@ This is a simple and elegant **Shoe Sale landing page** built using **React and 
 
 ---
 
-## 📁 Folder Structure
 
